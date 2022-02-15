@@ -1,3 +1,3 @@
 -- drop database if exists DB_NAME;
-drop database if exists flix_db;
-create database flix_db;
+drop database if exists flim_db;
+create database flim_db;
