@@ -41,5 +41,6 @@ Jason Olsen: [Github](https://github.com/jaolsen7),
 
 ## Links
 Github: https://github.com/LilyThomas28/Flim-Factory.git
-Heroku: https://git.heroku.com/film-factory.git
+Heroku: https://film-factory.herokuapp.com/
+
 
